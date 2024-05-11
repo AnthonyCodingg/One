@@ -1,2 +1,11 @@
 # One
-Programm on Python language
+Programm on Kotlin language
+
+fun main() {
+    last()
+}
+
+fun last(){
+    println(9.12)
+    println(4 + 10 + 13)
+}
